@@ -1,0 +1,10 @@
+git init = para iniciar un repositorio
+git status = para ver el estado del repositorio
+git add = para agregar archivos al repositorio
+git commit = para hacer un commit
+git log = para ver el historial de commits
+git diff = para ver las diferencias entre commits
+git checkout = para moverse entre
+
+git config --global user.name "Tu Nombre" = para configurar el nombre de usuario globalmente
+git config --global user.email "tuemail@example.com" = para configurar el correo electrónico globalmente

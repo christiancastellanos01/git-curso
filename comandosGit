@@ -1,6 +1,7 @@
 git init = para iniciar un repositorio
 git status = para ver el estado del repositorio
-git add = para agregar archivos al repositorio
+git add nombre_del_archivo = para agregar archivos al repositorio
+git add . = para agregar todos los archivos al repositorio
 git commit = para hacer un commit, aqui aparece la consola de git para escribir el mensaje del commit
 git commit -m "mensaje" = para hacer un commit con un mensaje sin usar la consola
 git log = para ver el historial de commits
